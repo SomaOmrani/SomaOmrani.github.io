@@ -8,7 +8,7 @@ I'm a versatile data scientist driven by a deep passion for harnessing cutting-e
 
 My toolkit includes Python, Pandas, NumPy, Scikit-learn, and TensorFlow, enabling me to tackle complex challenges head-on. Over the years, I've been instrumental in providing technical research and development support, culminating in the creation of groundbreaking products and services.
 
-My portfolio spans a diverse range of projects, from crafting NLP-based job recommendation systems to engineering AI tools that have garnered industry recognition. I'm deeply committed to driving advancements in digital technology and reshaping the AI and Immersive Technology landscape.
+My portfolio spans a diverse range of projects, from crafting job recommendation systems to engineering AI tools that have garnered industry recognition. I'm deeply committed to driving advancements in digital technology and reshaping the AI and Immersive Technology landscape.
 
 As a collaborative problem solver, I thrive in teamwork, holding an unwavering belief in the transformative potential of data science and AI. I'm enthusiastic about sharing my knowledge, contributing to open-source projects, and actively participating in the GitHub community.
 
