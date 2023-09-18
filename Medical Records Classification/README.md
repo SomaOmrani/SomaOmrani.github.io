@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project focuses on accurately classifying medical records and documents using state-of-the-art natural language processing (NLP) models, specifically RoBERTa and LayoutLMv3. The goal is to streamline document categorization in healthcare, improving efficiency and organization.
+This project focuses on accurately classifying medical records and documents using state-of-the-art models, specifically RoBERTa and LayoutLMv3. The goal is to streamline document categorization in healthcare, improving efficiency and organization.
 
 ## Table of Contents
 
@@ -11,8 +11,6 @@ This project focuses on accurately classifying medical records and documents usi
 - [Installation](#installation)
 - [Usage](#usage)
 - [Results](#results)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
@@ -40,7 +38,7 @@ In the healthcare industry, efficient categorization of medical records is cruci
 
 ### Evaluation
 
-- We assess model performance using standard NLP metrics such as accuracy, precision, recall, and F1-score.
+- We assess model performance using standard metrics such as accuracy, precision, recall, and F1-score.
 
 ## Installation
 
@@ -49,4 +47,31 @@ To run this project locally, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/YourUsername/Medical-Records-Classification.git
+   git clone https://github.com/SomaOmrani/Medical Records Classification.git
+
+2. Navigate to the project directory:
+
+   cd Medical Records Classification
+
+3. Install the required libraries:
+
+   pip install -r requirements.txt
+
+##Usage
+
+Data Preparation:
+
+Prepare your medical records data in a structured format.
+Model Training:
+
+Train the RoBERTa model for text classification on your dataset.
+Document Classification:
+
+Use the LayoutLMv3 model to classify entire PDF documents.
+Evaluation: 
+
+Assess the model's performance using standard evaluation metrics.
+
+## Results
+
+Our models achieved impressive results, demonstrating their ability to accurately categorize medical records, streamline document management, and improve healthcare data organization.
