@@ -57,7 +57,7 @@ To run this project locally, follow these steps:
 
    pip install -r requirements.txt
 
-##Usage
+## Usage
 
 Data Preparation:
 
