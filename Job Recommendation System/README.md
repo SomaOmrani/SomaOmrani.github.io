@@ -43,8 +43,8 @@ The project's evaluation focuses on achieving the following objectives:
 To run this project, follow these steps:
 
 1. Clone the repository to your local machine:
-git clone https://github.com/SomaOmrani/job recommendation system.git
-cd job recommendation system
+git clone https://github.com/SomaOmrani/job-recommendation-system.git
+cd job-recommendation-system
 
 2. Install the required libraries using pip:
 pip install -r requirements.txt
